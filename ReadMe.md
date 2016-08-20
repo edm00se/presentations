@@ -6,6 +6,7 @@ An emporium of my conference and user group project repositories, so as to provi
 
 | Presentation                                   | When     | Description                                                            |
 | ---------------------------------------------- | -------- | ---------------------------------------------------------------------- |
+| [A Modernized Development Workflow w/ Domino/XPages][6] | Aug 2016 | Extending the themes of my previous two presentations, presented on a higher level overview of the themes of dev workflow automation and how to leverage modern tooling on the XPages platform |
 | [Normalizing XPages Development][1]            | May 2016 | co-presented with [Shean P. McManus][5] on web "normal" development practices w/ XPages |
 | [A Beard, An App, A Blender][3]                | Feb 2016 | exploring the pluggable nature of modern, front-end app scaffolding for Domino/XPages deployment |
 | [Speed Up Your Apps w/ Nginx and PageSpeed][4] | Aug 2015 | how to enhance web application performance, with a reverse proxy in front of IBM Domino |
@@ -16,6 +17,7 @@ An emporium of my conference and user group project repositories, so as to provi
 [3]: https://github.com/edm00se/BeardAppBlender
 [4]: https://github.com/edm00se/AD113-Speed-Up-Your-Apps-with-Nginx-and-PageSpeed
 [5]: http://www.spmcmanus.net/
+[6]: https://github.com/edm00se/BP101-A-Modernized-Developer-Workflow-With-Domino-and-XPages#readme
 
 ## License
 
