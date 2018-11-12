@@ -26,7 +26,7 @@ You can find my previously presented work on the [root page of this repository](
 
 [I have a blog][blog]. This tends to be more prolific during the winter months, with the summer months being more sparse. This is a byproduct of my lifestyle throughout the seasons of the year.
 
-[youtube-docker-quick-tips]: https://goo.gl/E9oCYT
+[youtube-docker-quick-tips]: https://bit.ly/EricDockerQuickTips
 [ni9]: http://www.notesin9.com/?s=eric+mccormick
 [blog]: https://edm00se.io
 [software-dev]: https://github.com/edm00se/ama/issues/5#issue-216062947
